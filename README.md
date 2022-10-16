@@ -1,0 +1,1 @@
+# System autoryzacyjny za pomocą token JWT
